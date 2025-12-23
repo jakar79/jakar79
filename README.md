@@ -29,10 +29,6 @@ Here are some ideas to get you started:
         Mastering the construction of modern, <strong>scalable, high-performance web applications </strong>using front-end and back-end technologies. Passionate about emerging technologies and innovation, I am constantly striving to learn and expand my horizons.
        <a><strong>Jakar</strong></a>.
       </p>
-      <div align="left">
-        <img src="https://profile-counter.glitch.me/jakar79/count.svg" alt="jakar" width="150" /> <br> Profile Views
-      </div>
-    </td>
   </tr>
 </table>
 
