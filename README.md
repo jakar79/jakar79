@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi! I'm Karim Jabri 👋  
+# Hi! I'm Karim 👋  
 
 ### 🚀 **Fullstack Developer** | 💻 **Tech Enthusiast** | 🎬 **Dev Instructor**
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **anything tech-related!**  
 
 
-📩 **Let's Connect:** [karim.jabri@gmail.com](mailto:karim.jabri@gmail.com) | [_**Facebook**_](https://facebook.com/karim.jabri.984)  
+- 📫 How to reach me: [karim.jabri@gmail.com](mailto:karim.jabri@gmail.com) | [_**Facebook**_](https://facebook.com/karim.jabri.984)  
 
 ---
 
