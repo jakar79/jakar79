@@ -92,11 +92,25 @@ Here are some ideas to get you started:
 
 ## 📊 **GitHub Stats**  
   
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=jakar79&show_icons=true&theme=radical" height="150px" /> -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakar79&show_icons=true&theme=radical)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakar79&layout=compact&theme=radical" height="150px" />
 
----
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=jakar79&show_icons=true&theme=radical" height="150px" />-->
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=jakar79&theme=radical" height="150px" />-->
+  
+  <!--[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=jakar79)](https://codeforces.com/profile/jakar79)
 
-🌱 **"Talk is cheap. Show me the code."**  
+  ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=jakar79)-->
+
+  <!--![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=jakar79)
+  ![github-trophies](https://stats.hyo.dev/api/github-trophies?login=jakar79)-->
+<!--[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=jakar79)](https://github.com/jakar79)
+
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=jakar79&hide=contribs,prs)-->
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=jakar79&theme=radical)](https://github.com/jakar79)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=jakar79&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakar79&layout=compact&theme=radical" height="150px" />-->
+
+<!--[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jakar79)](https://github.com/jakar79)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jakar79&layout=compact)-->
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jakar79&layout=pie&theme=radical)](https://github.com/jakar79)
+
 
