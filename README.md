@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-                                             JJJ   AAA   KK  KK   AAA   RRRRRR   7777777          
-                                             JJJ  AAAAA  KK KK   AAAAA  RR   RR      777  99999   
-                                             JJJ AA   AA KKKK   AA   AA RRRRRR      777  99   99  
-                                         JJ  JJJ AAAAAAA KK KK  AAAAAAA RR  RR     777    999999  
-                                          JJJJJ  AA   AA KK  KK AA   AA RR   RR   777        99   
-                                                                                           999    
+               _         _  __          _____    ______ ___     
+              | |  /\   | |/ /    /\   |  __ \  |____  / _ \    
+              | | /  \  | ' /    /  \  | |__) |     / / (_) |   
+          _   | |/ /\ \ |  <    / /\ \ |  _  /     / / \__, |   
+         | |__| / ____ \| . \  / ____ \| | \ \    / /    / /    
+          \____/_/    \_\_|\_\/_/    \_\_|  \_\  /_/    /_/  
                                                             
                                                           
                                                             
